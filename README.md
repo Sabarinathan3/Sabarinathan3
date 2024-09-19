@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sabarinathan3
-- 👀 I’m interested in ...To become Data science
+- 👀 I’m interested in ...To become Data scienctist
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Meta,IBM,Google,Amazon and top MNC companies
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...Through - sabarik312007@gmail.com,theresilientks@gmail.com and instagram id - im.__.Sabari Phone-8015738784
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
 
 <!---
