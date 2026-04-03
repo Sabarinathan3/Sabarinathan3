@@ -1,22 +1,57 @@
-🚀 About Me
-🎯 Aiming to build a career in Data Science & AI
-📚 Currently learning Python, SQL, Tableau, Power BI & ML basics
-🤝 Open to collaborating on Real-world data analytics, AI & machine learning projects
-🧠 Passionate about solving problems using data
+# 🚀 About Me
+🎯 Aspiring **Flutter & Full-Stack Developer** passionate about building scalable mobile and web applications.
 
-🛠 Skills & Learning Roadmap
-Python
-SQL
-Power BI & Tableau
-Excel
-Machine Learning (Beginning)
+📱 Strong focus on **cross-platform mobile development with Flutter** and **full-stack web development using MERN stack**.
 
-📬 Connect with Me
-📧 Email: sabarik312007@gmail.com
-📧 Backup: theresilientks@gmail.com
-📱 Phone: 8015738784
-📷 Instagram: @sabari_3127
-🔗 LinkedIn: https://www.linkedin.com/in/sabarinathan-data-analyst
+💡 Interested in solving real-world product problems through:
+- Mobile App Development
+- REST API Integration
+- Backend Architecture
+- Scalable UI Design
+- Full-Stack System Development
 
-⚡ Fun Fact
-I debug more than I sleep — transforming messy data into clarity is the best part of the process.
+🤝 Open to collaborating on:
+- Flutter mobile apps
+- MERN stack web platforms
+- SaaS products
+- AI-integrated applications
+- Startup MVPs
+
+🧠 Passionate about building clean UI, reusable architectures, and production-ready solutions.
+
+---
+
+# 🛠 Tech Stack
+- Flutter
+- Dart
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Firebase
+- Git & GitHub
+- Docker
+- C++
+- Python
+
+---
+
+# 📌 Current Focus
+- Advanced Flutter architecture
+- Scalable MERN backend systems
+- API integrations
+- Clean code & debugging
+- Real-world SaaS projects
+
+---
+
+# 📬 Connect with Me
+- 📧 Email: sabarik312007@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/sabarinathan3
+- 💻 GitHub: https://github.com/Sabarinathan3
+
+---
+
+# ⚡ Fun Fact
+I debug more than I sleep — whether it’s Flutter UI issues or backend API bugs.
