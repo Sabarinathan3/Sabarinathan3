@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,python,pytorch,docker,aws,mongodb,postgres,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flutter,python,mysql&theme=dark"/>
 
 <br/><br/>
 
