@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Sabarinathan+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;Blockchain+%2B+SaaS+Builder+%F0%9F%9A%80;500%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Sabarinathan+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications+%F0%9F%9A%80;500%2B+DSA+Problems+Solved+%F0%9F%A7%A0;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -169,10 +169,8 @@ const sabarinathan = {
 
 ```
 🏗️  System Design       → Microservices, Caching Strategies, Load Balancing
-⛓️  Blockchain          → DeFi Protocols, Layer-2 Solutions, Hardhat Testing
 ☁️  Cloud (AWS)         → EC2, S3, Lambda, RDS, IAM
 🤖  Machine Learning    → PyTorch, CNNs, Transfer Learning, OpenCV
-🌐  Web3               → Ethers.js, IPFS, Token Standards (ERC-20, ERC-721)
 🇩🇪  German Language    → Duolingo Level 16 · 355-day streak
 ```
 
