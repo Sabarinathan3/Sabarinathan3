@@ -1,17 +1,19 @@
-# <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0F0F0F,25:1A1A40,50:3B82F6,75:06B6D4,100:8B5CF6&text=Sabarinathan%20K&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20•%20Flutter%20Developer&descAlignY=58&descSize=20" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Building+Scalable+Tech+Products+⚡;AI+%7C+MERN+%7C+Flutter+%7C+Cloud+🚀;Computer+Vision+%7C+YOLOv8+%7C+IoT+🤖;Turning+Ideas+Into+Production-Grade+Apps+💻" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,25:1E293B,50:2563EB,75:7C3AED,100:06B6D4&text=Sabarinathan%20K&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20•%20Flutter%20Developer&descAlignY=58&descSize=18"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,python,pytorch,tensorflow,docker,aws,mongodb,postgres,redis&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications+⚡;AI+%7C+MERN+%7C+Flutter+Developer+🚀;Computer+Vision+%7C+YOLOv8+%7C+Cloud+🤖"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,python,pytorch,docker,aws,mongodb,postgres,redis&theme=dark"/>
 
 <br/><br/>
 
 <a href="https://github.com/Sabarinathan3">
-<img src="https://img.shields.io/github/followers/Sabarinathan3?style=for-the-badge&color=0ea5e9&labelColor=111827"/>
+<img src="https://img.shields.io/github/followers/Sabarinathan3?style=for-the-badge&logo=github&color=2563EB"/>
 </a>
 
 <a href="https://linkedin.com/in/sabarinathan3">
@@ -23,7 +25,7 @@
 </a>
 
 <a href="https://github.com/Sabarinathan3">
-<img src="https://komarev.com/ghpvc/?username=Sabarinathan3&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Sabarinathan3&style=for-the-badge&color=7C3AED"/>
 </a>
 
 </div>
