@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications+⚡;AI+%7C+MERN+%7C+Flutter+Developer+🚀;Computer+Vision+%7C+YOLOv8+%7C+Cloud+🤖"/>
 
-<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flutter,python,mysql&theme=dark"/>
 
