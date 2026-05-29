@@ -105,7 +105,7 @@ const sabarinathan = {
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,cursor,antigravity"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode"/>
 
 ---
 
