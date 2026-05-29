@@ -81,7 +81,7 @@ const sabarinathan = {
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,dart,cpp,java,c,solidity"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,cpp,c"/>
 
 ---
 
@@ -105,7 +105,7 @@ const sabarinathan = {
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,cursor,antigravity"/>
 
 ---
 
